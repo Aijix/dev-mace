@@ -1,7 +1,7 @@
 # ABOUT ME - mace
 
 > I WANNA GRADUATE BY 2027 OR 2028
-> I WANNA GO HOOOOOOOOOOOME ;-;
+>> I WANNA GO HOOOOOOOOOOOME ;-;
 
 **STEPS**
 1. Make the project as local reposition / storage
@@ -39,13 +39,14 @@ git remote add origin <gitHubLink>
 ```
 
 ## Delete currently logged in accs
-```
-to check someone's login on ur acc:
+```bash
+> to check who is currenty logged in on ur acc:
 git credential-manager github list      
 // git credential-cache exit
 ```
+
 # Push or upload our changers
 ```bash
-git push -u origin push
+git push -u origin main
 ```
 
